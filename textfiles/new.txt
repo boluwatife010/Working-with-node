@@ -1,0 +1,5 @@
+Just another way to read a file from another file.
+# 100 days of node!!
+Hello world my name is Ojo Boluwatife fiyinfoluwa, I am a second year computer engineering,
+student, from Nigeria, i am currently training to become a back end developer, 
+I have the best mentor in the world!!!

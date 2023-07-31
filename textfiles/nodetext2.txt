@@ -1,0 +1,3 @@
+So far, it has been such a joy ride.. I really hope to know more about this runtime environment
+Did you know that Nodejs was built based on Google's V8 engine? Nice fact.
+It is also an event driven runtime and is only single threaded, i.e. it can perform one function at a time.
